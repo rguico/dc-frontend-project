@@ -1,4 +1,7 @@
 {
+  "name": "datacubes-frontend-project-backend",
+  "version": "1.0.0",
+  "author": "Robert Guico <robert@datacubes.com>",
   "dependencies": {
     "body-parser": "^1.16.0",
     "csv": "^1.1.1",
